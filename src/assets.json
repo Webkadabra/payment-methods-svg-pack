@@ -1,0 +1,142 @@
+[
+  {
+    "type": "affirm",
+    "url": "https://github.com/webkadabra/payment-methods-svg-pack/raw/main/src/assets/affirm.svg"
+  },
+  {
+    "type": "alipay",
+    "url": "https://github.com/webkadabra/payment-methods-svg-pack/raw/main/src/assets/alipay.svg"
+  },
+  {
+    "type": "amazon",
+    "url": "https://github.com/webkadabra/payment-methods-svg-pack/raw/main/src/assets/amazon.svg"
+  },
+  {
+    "type": "amex",
+    "url": "https://github.com/webkadabra/payment-methods-svg-pack/raw/main/src/assets/amex.svg"
+  },
+  {
+    "type": "applepay",
+    "url": "https://github.com/webkadabra/payment-methods-svg-pack/raw/main/src/assets/applepay.svg"
+  },
+  {
+    "type": "bancontact",
+    "url": "https://github.com/webkadabra/payment-methods-svg-pack/raw/main/src/assets/bancontact.svg"
+  },
+  {
+    "type": "bitcoin",
+    "url": "https://github.com/webkadabra/payment-methods-svg-pack/raw/main/src/assets/bitcoin.svg"
+  },
+  {
+    "type": "bitcoincash",
+    "url": "https://github.com/webkadabra/payment-methods-svg-pack/raw/main/src/assets/bitcoincash.svg"
+  },
+  {
+    "type": "bitpay",
+    "url": "https://github.com/webkadabra/payment-methods-svg-pack/raw/main/src/assets/bitpay.svg"
+  },
+  {
+    "type": "discover",
+    "url": "https://github.com/webkadabra/payment-methods-svg-pack/raw/main/src/assets/discover.svg"
+  },
+  {
+    "type": "etherium",
+    "url": "https://github.com/webkadabra/payment-methods-svg-pack/raw/main/src/assets/etherium.svg"
+  },
+  {
+    "type": "facebookpay",
+    "url": "https://github.com/webkadabra/payment-methods-svg-pack/raw/main/src/assets/facebookpay.svg"
+  },
+  {
+    "type": "facepay",
+    "url": "https://github.com/webkadabra/payment-methods-svg-pack/raw/main/src/assets/facepay.svg"
+  },
+  {
+    "type": "forbrugsforeningen",
+    "url": "https://github.com/webkadabra/payment-methods-svg-pack/raw/main/src/assets/forbrugsforeningen.svg"
+  },
+  {
+    "type": "googlepay",
+    "url": "https://github.com/webkadabra/payment-methods-svg-pack/raw/main/src/assets/googlepay.svg"
+  },
+  {
+    "type": "jcb",
+    "url": "https://github.com/webkadabra/payment-methods-svg-pack/raw/main/src/assets/jcb.svg"
+  },
+  {
+    "type": "lightcoin",
+    "url": "https://github.com/webkadabra/payment-methods-svg-pack/raw/main/src/assets/lightcoin.svg"
+  },
+  {
+    "type": "liqpay",
+    "url": "https://github.com/webkadabra/payment-methods-svg-pack/raw/main/src/assets/liqpay.svg"
+  },
+  {
+    "type": "maestro",
+    "url": "https://github.com/webkadabra/payment-methods-svg-pack/raw/main/src/assets/maestro.svg"
+  },
+  {
+    "type": "mastercard",
+    "url": "https://github.com/webkadabra/payment-methods-svg-pack/raw/main/src/assets/mastercard.svg"
+  },
+  {
+    "type": "monobank",
+    "url": "https://github.com/webkadabra/payment-methods-svg-pack/raw/main/src/assets/monobank.svg"
+  },
+  {
+    "type": "payoneer",
+    "url": "https://github.com/webkadabra/payment-methods-svg-pack/raw/main/src/assets/payoneer.svg"
+  },
+  {
+    "type": "paypal",
+    "url": "https://github.com/webkadabra/payment-methods-svg-pack/raw/main/src/assets/paypal.svg"
+  },
+  {
+    "type": "paysafe",
+    "url": "https://github.com/webkadabra/payment-methods-svg-pack/raw/main/src/assets/paysafe.svg"
+  },
+  {
+    "type": "privatpay",
+    "url": "https://github.com/webkadabra/payment-methods-svg-pack/raw/main/src/assets/privatpay.svg"
+  },
+  {
+    "type": "qiwi",
+    "url": "https://github.com/webkadabra/payment-methods-svg-pack/raw/main/src/assets/qiwi.svg"
+  },
+  {
+    "type": "sepa",
+    "url": "https://github.com/webkadabra/payment-methods-svg-pack/raw/main/src/assets/sepa.svg"
+  },
+  {
+    "type": "shop pay",
+    "url": "https://github.com/webkadabra/payment-methods-svg-pack/raw/main/src/assets/shop pay.svg"
+  },
+  {
+    "type": "skrill",
+    "url": "https://github.com/webkadabra/payment-methods-svg-pack/raw/main/src/assets/skrill.svg"
+  },
+  {
+    "type": "stripe",
+    "url": "https://github.com/webkadabra/payment-methods-svg-pack/raw/main/src/assets/stripe.svg"
+  },
+  {
+    "type": "unionpay",
+    "url": "https://github.com/webkadabra/payment-methods-svg-pack/raw/main/src/assets/unionpay.svg"
+  },
+  {
+    "type": "venmo",
+    "url": "https://github.com/webkadabra/payment-methods-svg-pack/raw/main/src/assets/venmo.svg"
+  },
+  {
+    "type": "visa",
+    "url": "https://github.com/webkadabra/payment-methods-svg-pack/raw/main/src/assets/visa.svg"
+  },
+  {
+    "type": "webmoney",
+    "url": "https://github.com/webkadabra/payment-methods-svg-pack/raw/main/src/assets/webmoney.svg"
+  },
+  {
+    "type": "wechat",
+    "url": "https://github.com/webkadabra/payment-methods-svg-pack/raw/main/src/assets/wechat.svg"
+  }
+]

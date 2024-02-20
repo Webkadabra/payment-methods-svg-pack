@@ -1,8 +1,9 @@
 const fs = require('fs');
 const path = require('path');
 
-const iconFolder = './src/assets'; // Path to your SVG icons folder
-const readmeFilename = 'README.md'; // README file name
+const iconFolder = './src/assets';
+const readmeFilename = 'README.md';
+const jsonFilename = './src/assets.json';
 
 fs.readFile(readmeFilename, 'utf8', (err, data) => {
     if (err) {
@@ -47,6 +48,26 @@ fs.readFile(readmeFilename, 'utf8', (err, data) => {
                 return;
             }
             console.log(`File ${readmeFilename} updated successfully.`);
+
+            const icons = files
+                .filter(file => file.endsWith('.svg'))
+                .map(file => {
+                    const type = path.basename(file, '.svg');
+
+                    const url = `https://github.com/webkadabra/payment-methods-svg-pack/raw/main/${path.join(iconFolder, file).replaceAll('\\', '/')}`;
+
+                    return { type, url };
+                });
+
+            const iconsJson = JSON.stringify(icons, null, 2);
+
+            fs.writeFile(jsonFilename, iconsJson, 'utf8', err => {
+                if (err) {
+                    console.error('Error writing JSON file:', err);
+                    return;
+                }
+                console.log(`File ${jsonFilename} created successfully.`);
+            });
         });
     });
 });
