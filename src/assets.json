@@ -108,8 +108,8 @@
     "url": "https://github.com/webkadabra/payment-methods-svg-pack/raw/main/src/assets/sepa.svg"
   },
   {
-    "type": "shop pay",
-    "url": "https://github.com/webkadabra/payment-methods-svg-pack/raw/main/src/assets/shop pay.svg"
+    "type": "shoppay",
+    "url": "https://github.com/webkadabra/payment-methods-svg-pack/raw/main/src/assets/shoppay.svg"
   },
   {
     "type": "skrill",

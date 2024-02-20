@@ -35,7 +35,7 @@ Pack is built on **modified** and *extended* version of [Credit Cards and Paymen
 | privatpay   | ![privatpay](src/assets/privatpay.svg) | [privatpay](https://github.com/webkadabra/payment-methods-svg-pack/raw/main/src/assets/privatpay.svg) |
 | qiwi   | ![qiwi](src/assets/qiwi.svg) | [qiwi](https://github.com/webkadabra/payment-methods-svg-pack/raw/main/src/assets/qiwi.svg) |
 | sepa   | ![sepa](src/assets/sepa.svg) | [sepa](https://github.com/webkadabra/payment-methods-svg-pack/raw/main/src/assets/sepa.svg) |
-| shop pay   | ![shop pay](src/assets/shop pay.svg) | [shop pay](https://github.com/webkadabra/payment-methods-svg-pack/raw/main/src/assets/shop pay.svg) |
+| shoppay   | ![shoppay](src/assets/shoppay.svg) | [shoppay](https://github.com/webkadabra/payment-methods-svg-pack/raw/main/src/assets/shoppay.svg) |
 | skrill   | ![skrill](src/assets/skrill.svg) | [skrill](https://github.com/webkadabra/payment-methods-svg-pack/raw/main/src/assets/skrill.svg) |
 | stripe   | ![stripe](src/assets/stripe.svg) | [stripe](https://github.com/webkadabra/payment-methods-svg-pack/raw/main/src/assets/stripe.svg) |
 | unionpay   | ![unionpay](src/assets/unionpay.svg) | [unionpay](https://github.com/webkadabra/payment-methods-svg-pack/raw/main/src/assets/unionpay.svg) |
