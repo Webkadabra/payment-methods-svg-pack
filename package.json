@@ -1,0 +1,20 @@
+{
+  "name": "payment-methods-svg-pack",
+  "license": "MIT",
+  "version": "1.0.0",
+  "description": "A pack of SVG icons for payment methods",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Webkadabra/payment-methods-svg-pack.git"
+  },
+  "homepage": "https://webkadabra.github.io/payment-methods-svg-pack",
+  "scripts": {
+    "build": "node build-docs.js"
+  },
+  "author": "Sergii Gamaiunov <devkadabra@gmail.com>",
+  "keywords": [
+    "svg",
+    "payment",
+    "icon"
+  ]
+}
