@@ -35,7 +35,7 @@ fs.readFile(readmeFilename, 'utf8', (err, data) => {
             .map(file => {
                 const name = path.basename(file, '.svg');
                 const url = path.join(iconFolder, file).replaceAll('\\', '/');
-                return `| ${name}   | ![${name}](${url}) | <input value="https://github.com/webkadabra/payment-methods-svg-pack/raw/main/${url}" onClick="this.focus()"/> |`;
+                return `| ${name}   | ![${name}](${url}) | [${name}](https://github.com/webkadabra/payment-methods-svg-pack/raw/main/${url}) |`;
             })
             .join('\n');
 
